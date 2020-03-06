@@ -1,0 +1,414 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  terminate_monitor_hook.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_set(581): message : see declaration of 'std::tr1'
+  simple.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.cpp(30,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.cpp(18,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  pe_imports.cpp
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_imports.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_imports.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_imports.cpp(38,26): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(55,25): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(109,28): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(114,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\pe_imports.cpp(131,28): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(135,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\pe_imports.cpp(143,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\pe_imports.cpp(180,27): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(192,27): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(210,26): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(214,37): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(219,27): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(223,36): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_imports.cpp(222,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  pe_header.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(43,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(92,1): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1112): message : see declaration of '_splitpath'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(93,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(174,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(175,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(274,17): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(272,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(325,27): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(431,54): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(440,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(446,20): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(457,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(502,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_set(581): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_header.h(17,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_header.cpp(359,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\pe_header.cpp(437,37): warning C4244: '=': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(472,37): warning C4244: '=': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(649,41): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(651,54): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(653,55): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(654,52): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(655,53): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(656,59): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(657,55): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(667,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type '__int64'
+C:\Github\LeagueDumper\pd\pe_header.cpp(667,12): message : consider using '%llx' in the format string
+C:\Github\LeagueDumper\pd\pe_header.cpp(667,12): message : consider using '%I64x' in the format string
+C:\Github\LeagueDumper\pd\pe_header.cpp(677,47): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(682,47): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(864,19): warning C4018: '>': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_header.cpp(1032,19): warning C4018: '>': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_header.cpp(1179,184): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1183,38): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1184,29): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1197,115): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1198,85): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1205,38): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1206,29): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1262,21): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1288,34): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1293,39): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1312,32): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1328,34): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1395,184): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1400,38): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1401,29): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1414,115): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1415,85): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1422,38): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1423,29): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1481,21): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1507,34): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1512,39): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1531,32): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\pe_header.cpp(1547,34): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+  pe_hash_database.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(43,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(92,1): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1112): message : see declaration of '_splitpath'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(93,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(174,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(175,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(274,17): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(272,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(325,27): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(431,54): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(440,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(446,20): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(457,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(502,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_header.h(17,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_hash_database.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(23,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(29,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(118,25): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(145,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(148,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(162,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(171,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(178,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(205,23): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(216,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(231,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(234,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(247,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(256,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(262,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Github\LeagueDumper\pd\pe_hash_database.cpp(352,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  pe_exports.cpp
+  pd.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(43,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(92,1): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1112): message : see declaration of '_splitpath'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(93,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(174,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(175,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(274,17): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(272,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(325,27): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(431,54): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(440,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(446,20): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(457,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(502,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_set(581): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_header.h(17,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_hash_database.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\dump_process.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pd.cpp(70,22): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\pd.cpp(90,7): warning C4101: 'mesg': unreferenced local variable
+C:\Github\LeagueDumper\pd\pd.cpp(384,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pd.cpp(463,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(464,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(505,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(506,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(532,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pd.cpp(566,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(567,1): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h(2039): message : see declaration of 'swscanf'
+C:\Github\LeagueDumper\pd\pd.cpp(598,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pd.cpp(616,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pd.cpp(662,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\pd.cpp(689,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  module_list.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+  hash.cpp
+  export_list.cpp
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_set(581): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\export_list.cpp(11,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\export_list.cpp(21,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\export_list.cpp(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\export_list.cpp(50,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\export_list.cpp(127,1): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(543): message : see declaration of 'strcmpi'
+C:\Github\LeagueDumper\pd\export_list.cpp(174,15): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.cpp(176,15): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.cpp(177,23): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\export_list.cpp(220,11): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\export_list.cpp(245,71): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  dump_process.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(43,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(92,1): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1112): message : see declaration of '_splitpath'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(93,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(174,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(175,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(274,17): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(272,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(325,27): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(431,54): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(440,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(446,20): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(457,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(502,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_set(581): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_header.h(17,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_hash_database.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\dump_process.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\dump_process.cpp(55,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\dump_process.cpp(82,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\dump_process.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\dump_process.cpp(208,19): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\dump_process.cpp(416,1): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(543): message : see declaration of 'strcmpi'
+C:\Github\LeagueDumper\pd\dump_process.cpp(458,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\dump_process.cpp(460,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\dump_process.cpp(642,20): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\dump_process.cpp(660,19): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\dump_process.cpp(676,26): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\dump_process.cpp(735,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\dump_process.cpp(737,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  close_watcher.cpp
+C:\Github\LeagueDumper\pd\simple.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\regex(4598): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\simple.h(32,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\simple.h(62,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\module_list.h(10,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\module_list.h(44,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\module_list.h(45,1): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1961): message : see declaration of '_snprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(43,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(92,1): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1112): message : see declaration of '_splitpath'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(93,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(174,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(175,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(274,17): warning C4018: '<': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(272,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Github\LeagueDumper\pd\stream_wrapper.h(325,27): warning C4244: 'return': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(431,54): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(440,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Github\LeagueDumper\pd\stream_wrapper.h(446,20): warning C4244: 'argument': conversion from 'ULONGLONG' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(457,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\stream_wrapper.h(502,23): warning C4244: 'argument': conversion from '__int64' to 'SIZE_T', possible loss of data
+C:\Github\LeagueDumper\pd\export_list.h(14,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\unordered_map(777): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_imports.h(6,1): warning C4005: 'IMAGE_ORDINAL_FLAG64': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18030): message : see previous definition of 'IMAGE_ORDINAL_FLAG64'
+C:\Github\LeagueDumper\pd\pe_header.h(17,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\pe_hash_database.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+C:\Github\LeagueDumper\pd\dump_process.h(21,25): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\functional(2088): message : see declaration of 'std::tr1'
+  Generating Code...
+close_watcher.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  pd.vcxproj -> C:\Github\LeagueDumper\Debug\pd.exe
